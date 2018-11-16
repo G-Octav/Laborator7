@@ -690,11 +690,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\lab7.Net\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
+      "projectUniqueName": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
       "projectName": "Laborator7.Dto",
-      "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\lab7.Net\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
+      "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
       "packagesPath": "C:\\Users\\NENO\\.nuget\\packages\\",
-      "outputPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\lab7.Net\\Laborator7\\Laborator7.Dto\\obj\\",
+      "outputPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

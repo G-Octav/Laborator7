@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Laborator7.Domain.Product
 {
-    class Product
+   public class Product
     {
         public Guid id { get; set; }
         public string Name { get; set; }
