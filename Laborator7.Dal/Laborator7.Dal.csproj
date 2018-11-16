@@ -5,9 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Manager\" />
     <Folder Include="Model\" />
     <Folder Include="Repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Laborator7.Dto\Laborator7.Dto.csproj" />
   </ItemGroup>
 
 </Project>

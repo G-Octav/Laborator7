@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Laborator7.Dto.Product
+﻿namespace Laborator7.Dto.Product
 {
     public class ProductDto
     {

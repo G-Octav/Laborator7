@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Laborator7.Dal
+﻿namespace Laborator7.Dal
 {
     public sealed class Lab7Context : DbContext
     {

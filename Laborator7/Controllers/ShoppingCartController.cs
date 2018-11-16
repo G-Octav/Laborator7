@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using Laborator7.Dto.Product;
+using Laborator7.Dto.ShoppingCart;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Laborator7.Controllers
