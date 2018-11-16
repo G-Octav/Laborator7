@@ -9,7 +9,8 @@ namespace Laborator7.Dal.Repository
     {
         IEnumerable<ShoppingCart> GetAllShoppingCarts();
 
-        IEnumerable<ShoppingCart> GetAllShoppingCartById();
+        IEnumerable<ShoppingCart> GetShoppingCartById();
+        
 
     }
 }
