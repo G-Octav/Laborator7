@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Laborator7.Domain.Product
+﻿namespace Laborator7.Domain.Product
 {
    public class Product
     {

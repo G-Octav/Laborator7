@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Laborator7.Domain.ShoppingCart
+﻿namespace Laborator7.Domain.ShoppingCart
 {
     public class ShoppingCart
     {

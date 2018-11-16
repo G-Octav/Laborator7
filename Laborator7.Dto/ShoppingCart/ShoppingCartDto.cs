@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Laborator7.Dto.ShoppingCart
+﻿namespace Laborator7.Dto.ShoppingCart
 {
     public class ShoppingCartDto
     {

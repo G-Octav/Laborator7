@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using Laborator7.Domain.ShoppingCart;
 
 namespace Laborator7.Dal.Repository

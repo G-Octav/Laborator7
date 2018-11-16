@@ -6,10 +6,10 @@
 
   <ItemGroup>
     <Folder Include="Model\" />
-    <Folder Include="Repository\" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Laborator7.Domain\Laborator7.Domain.csproj" />
     <ProjectReference Include="..\Laborator7.Dto\Laborator7.Dto.csproj" />
   </ItemGroup>
 
