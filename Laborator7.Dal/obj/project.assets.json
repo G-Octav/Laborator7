@@ -208,6 +208,29 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+<<<<<<< HEAD
+=======
+      "Laborator7/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Laborator7.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laborator7.dll": {}
+        }
+      },
+      "Laborator7.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Laborator7.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laborator7.Domain.dll": {}
+        }
+      },
+>>>>>>> 96021209575d520e1a2dd0b4b7af887eb8acb87b
       "Laborator7.Dto/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -684,6 +707,19 @@
         "netstandard.library.nuspec"
       ]
     },
+<<<<<<< HEAD
+=======
+    "Laborator7/1.0.0": {
+      "type": "project",
+      "path": "../Laborator7/Laborator7.csproj",
+      "msbuildProject": "../Laborator7/Laborator7.csproj"
+    },
+    "Laborator7.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Laborator7.Domain/Laborator7.Domain.csproj",
+      "msbuildProject": "../Laborator7.Domain/Laborator7.Domain.csproj"
+    },
+>>>>>>> 96021209575d520e1a2dd0b4b7af887eb8acb87b
     "Laborator7.Dto/1.0.0": {
       "type": "project",
       "path": "../Laborator7.Dto/Laborator7.Dto.csproj",
@@ -692,6 +728,11 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+<<<<<<< HEAD
+=======
+      "Laborator7 >= 1.0.0",
+      "Laborator7.Domain >= 1.0.0",
+>>>>>>> 96021209575d520e1a2dd0b4b7af887eb8acb87b
       "Laborator7.Dto >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -703,11 +744,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dal\\Laborator7.Dal.csproj",
       "projectName": "Laborator7.Dal",
       "projectPath": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dal\\Laborator7.Dal.csproj",
       "packagesPath": "C:\\Users\\ogensthaler\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dal\\obj\\",
+=======
+      "projectUniqueName": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dal\\Laborator7.Dal.csproj",
+      "projectName": "Laborator7.Dal",
+      "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dal\\Laborator7.Dal.csproj",
+      "packagesPath": "C:\\Users\\NENO\\.nuget\\packages\\",
+      "outputPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dal\\obj\\",
+>>>>>>> 96021209575d520e1a2dd0b4b7af887eb8acb87b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +775,19 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj": {
               "projectPath": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj"
+=======
+            "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj": {
+              "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj"
+            },
+            "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7\\Laborator7.csproj": {
+              "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7\\Laborator7.csproj"
+            },
+            "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Domain\\Laborator7.Domain.csproj": {
+              "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Domain\\Laborator7.Domain.csproj"
+>>>>>>> 96021209575d520e1a2dd0b4b7af887eb8acb87b
             }
           }
         }

@@ -687,11 +687,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
       "projectName": "Laborator7.Dto",
       "projectPath": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
       "packagesPath": "C:\\Users\\ogensthaler\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ogensthaler\\source\\repos\\Laborator7\\Laborator7.Dto\\obj\\",
+=======
+      "projectUniqueName": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
+      "projectName": "Laborator7.Dto",
+      "projectPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\Laborator7.Dto.csproj",
+      "packagesPath": "C:\\Users\\NENO\\.nuget\\packages\\",
+      "outputPath": "D:\\Faculty\\Facultate3\\Learning .NET\\Lab7NotInMyGit\\Laborator7\\Laborator7.Dto\\obj\\",
+>>>>>>> 96021209575d520e1a2dd0b4b7af887eb8acb87b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
