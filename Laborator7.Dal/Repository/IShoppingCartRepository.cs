@@ -1,16 +1,11 @@
-﻿using Laborator7.Domain.ShoppingCart;
-using System;
 using System.Collections.Generic;
-using System.Text;
+using Laborator7.Domain.ShoppingCart;
 
 namespace Laborator7.Dal.Repository
 {
-    interface IShoppingCartRepository
+    public interface IShoppingCartRepository
     {
         IEnumerable<ShoppingCart> GetAllShoppingCarts();
-
-        IEnumerable<ShoppingCart> GetShoppingCartById();
-        
-
+        IEnumerable<ShoppingCart> GetAllShoppingCartById();
     }
 }
